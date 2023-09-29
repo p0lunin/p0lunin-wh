@@ -1,0 +1,18 @@
+{
+    "id": "p0liunin-wh",
+    "title": "my",
+    "description": "my",
+    "authors": [
+        {
+            "name": "p0lunin"
+        }
+    ],
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "esmodules": [
+        "scripts/subspecies.js"
+    ]
+}
