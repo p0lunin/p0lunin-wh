@@ -14,5 +14,6 @@
     },
     "esmodules": [
         "scripts/subspecies.js"
-    ]
+    ],
+    "download": "https://github.com/p0lunin/p0lunin-wh/archive/refs/tags/v0.0.1.zip"
 }
